@@ -1,0 +1,42 @@
+SMAP
+studymaterial_jsp.java
+JSP
+*S JSP
+*F
++ 0 studymaterial.jsp
+studentzone/studymaterial.jsp
++ 1 slink.jsp
+studentzone/../master/slink.jsp
++ 2 sheader.jsp
+studentzone/../master/sheader.jsp
++ 3 smenu.jsp
+studentzone/../master/smenu.jsp
++ 4 ssearch.jsp
+studentzone/../master/ssearch.jsp
++ 5 sufooter.jsp
+studentzone/../master/sufooter.jsp
++ 6 slfooter.jsp
+studentzone/../master/slfooter.jsp
+*L
+1,9:56
+5#1,11:65
+9#0,35:75
+5#2:110
+7,7:112
+13,9:119
+43#0,2:127
+5#3,38:129
+44#0,14:166
+58,7:181
+64,2:188
+66,6:190,3
+72,4:208
+75,3:212
+77,5:215
+5#4,13:220
+81#0,3:232
+5#5,48:235
+83#0,2:282
+5#6,13:284
+84#0,9:296
+*E

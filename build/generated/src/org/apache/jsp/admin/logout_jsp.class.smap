@@ -1,0 +1,14 @@
+SMAP
+logout_jsp.java
+JSP
+*S JSP
+*F
++ 0 logout.jsp
+admin/logout.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
+*L
+5,9:49
+5#1,11:58
+13#0,26:68
+*E

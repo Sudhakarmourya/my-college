@@ -1,0 +1,30 @@
+SMAP
+contact_jsp.java
+JSP
+*S JSP
+*F
++ 0 contact.jsp
+admin/contact.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,11:53
+5#1,11:64
+15#0,18:74
+5#2,42:92
+32#0,16:133
+48,7:150
+54,2:157
+56,6:159,3
+62:177
+63:178,3
+64,3:181
+66,3:184
+68,4:187
+5#3,12:191
+71#0,7:202
+*E

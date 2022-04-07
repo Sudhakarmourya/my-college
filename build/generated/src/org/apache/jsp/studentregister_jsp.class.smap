@@ -1,0 +1,34 @@
+SMAP
+studentregister_jsp.java
+JSP
+*S JSP
+*F
++ 0 studentregister.jsp
+studentregister.jsp
++ 1 link.jsp
+master/link.jsp
++ 2 header.jsp
+master/header.jsp
++ 3 menu.jsp
+master/menu.jsp
++ 4 search.jsp
+master/search.jsp
++ 5 ufooter.jsp
+master/ufooter.jsp
++ 6 lfooter.jsp
+master/lfooter.jsp
+*L
+5,8:54
+5#1,11:62
+12#0,36:72
+5#2,10:108
+47#0,2:117
+5#3,53:119
+48#0,86:171
+5#4,13:257
+133#0,3:269
+5#5,48:272
+135#0,2:319
+5#6,13:321
+136#0,5:333
+*E

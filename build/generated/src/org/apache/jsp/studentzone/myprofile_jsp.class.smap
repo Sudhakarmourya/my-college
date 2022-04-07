@@ -1,0 +1,42 @@
+SMAP
+myprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 myprofile.jsp
+studentzone/myprofile.jsp
++ 1 slink.jsp
+studentzone/../master/slink.jsp
++ 2 sheader.jsp
+studentzone/../master/sheader.jsp
++ 3 smenu.jsp
+studentzone/../master/smenu.jsp
++ 4 ssearch.jsp
+studentzone/../master/ssearch.jsp
++ 5 sufooter.jsp
+studentzone/../master/sufooter.jsp
++ 6 slfooter.jsp
+studentzone/../master/slfooter.jsp
+*L
+1,9:56
+5#1,11:65
+9#0,31:75
+5#2:106
+7,7:108
+13,9:115
+39#0,2:123
+5#3,38:125
+40#0,23:162
+63,6:186
+68,2:192
+70,12:194,3
+82,3:230
+85,2:234
+86,5:236
+5#4,13:241
+90#0,3:253
+5#5,48:256
+92#0,2:303
+5#6,13:305
+93#0,7:317
+*E

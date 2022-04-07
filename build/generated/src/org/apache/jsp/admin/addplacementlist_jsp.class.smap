@@ -1,0 +1,23 @@
+SMAP
+addplacementlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 addplacementlist.jsp
+admin/addplacementlist.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+1:51
+5,9:52
+5#1,11:61
+13#0,18:71
+5#2,44:89
+30#0,46:132
+5#3,12:178
+75#0,7:189
+*E

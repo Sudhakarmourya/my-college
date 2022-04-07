@@ -1,0 +1,25 @@
+SMAP
+addcompanydetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcompanydetails.jsp
+admin/addcompanydetails.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+1:51,2
+5:53
+6:54,2
+7,7:56
+5#1,11:63
+13#0,16:73
+5#2,44:89
+28#0,32:132
+5#3,12:164
+59#0,6:175
+*E

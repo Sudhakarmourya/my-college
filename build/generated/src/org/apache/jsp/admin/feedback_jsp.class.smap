@@ -1,0 +1,22 @@
+SMAP
+feedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 feedback.jsp
+admin/feedback.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,9:51
+5#1,11:60
+13#0,18:70
+5#2,42:88
+30#0,2:129
+5#3,12:131
+31#0,7:142
+*E

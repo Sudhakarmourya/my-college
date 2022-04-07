@@ -1,0 +1,32 @@
+SMAP
+studentmgmt_jsp.java
+JSP
+*S JSP
+*F
++ 0 studentmgmt.jsp
+admin/studentmgmt.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,11:53
+5#1,11:64
+15#0,18:74
+5#2:92
+7,7:94
+13,43:101
+32#0,25:143
+57,7:169
+63,2:176
+65,12:178,3
+77,2:214
+79:216,3
+80,3:219
+82,3:222
+84,5:225
+5#3,12:230
+88#0,7:241
+*E

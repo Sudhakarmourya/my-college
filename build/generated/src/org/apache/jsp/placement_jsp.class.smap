@@ -1,0 +1,42 @@
+SMAP
+placement_jsp.java
+JSP
+*S JSP
+*F
++ 0 placement.jsp
+placement.jsp
++ 1 link.jsp
+master/link.jsp
++ 2 header.jsp
+master/header.jsp
++ 3 menu.jsp
+master/menu.jsp
++ 4 search.jsp
+master/search.jsp
++ 5 ufooter.jsp
+master/ufooter.jsp
++ 6 lfooter.jsp
+master/lfooter.jsp
+*L
+5,10:56
+5#1,11:66
+14#0,33:76
+5#2,10:109
+46#0,2:118
+5#3,38:120
+47#0,11:157
+58,6:169
+63,3:175
+66:178,3
+67,2:181
+69,6:183,3
+75,3:201
+78:204,3
+79,6:207
+5#4,13:213
+84#0,3:225
+5#5,48:228
+86#0,2:275
+5#6,13:277
+87#0,8:289
+*E

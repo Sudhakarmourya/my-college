@@ -1,0 +1,28 @@
+SMAP
+notifiction_jsp.java
+JSP
+*S JSP
+*F
++ 0 notifiction.jsp
+admin/notifiction.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,10:53
+5#1,11:63
+14#0,21:73
+5#2,44:94
+34#0,21:137
+55,8:159
+62,2:167
+64,4:169,3
+68,4:181
+72,2:186
+73,5:188
+5#3,12:193
+77#0,7:204
+*E
